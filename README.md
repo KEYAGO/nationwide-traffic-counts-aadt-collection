@@ -1,5 +1,5 @@
 # Nationwide Traffic Counts AADT Collection
-URL collection of annual average daily traffic (AADT) volumes on national roads of countries. Examples for more specific information: https://github.com/graphhopper/open-traffic-collection
+URL collection of annual average daily traffic (AADT) volumes on national roads of countries. Examples for more specific scales: https://github.com/graphhopper/open-traffic-collection
 
 ## Europe
 
