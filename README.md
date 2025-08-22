@@ -2,11 +2,11 @@
 URL collection of annual average daily traffic (AADT) volumes on national roads of countries. Examples for more specific information: https://github.com/graphhopper/open-traffic-collection
 
 ## Europe
-  * General Information
-   * [E-Roads (UNECE)](https://unece.org/transport/transport-statistics/traffic-census-2020)
-   * [Pan-European Road Network (CEDR)](https://www.cedr.eu/pan-european-road-network-performance-gis-web-map)
+ * General information for European main arteries:
+  * [E-Roads (UNECE)](https://unece.org/transport/transport-statistics/traffic-census-2020)
+  * [Pan-European Road Network (CEDR)](https://www.cedr.eu/pan-european-road-network-performance-gis-web-map)
 
-  * [France](https://www.data.gouv.fr/datasets/trafic-moyen-journalier-annuel-sur-le-reseau-routier-national/)
+ * [France](https://www.data.gouv.fr/datasets/trafic-moyen-journalier-annuel-sur-le-reseau-routier-national/)
   * [Poland](https://www.gov.pl/web/gddkia/generalny-pomiar-ruchu-20202021)
   * [Spain](https://www.transportes.gob.es/carreteras/nuestra-red/movilidad/mapas-trafico)
   * [Serbia](https://www.putevi-srbije.rs/index.php/en/traffic-counting)
